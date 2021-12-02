@@ -1,0 +1,20 @@
+{
+    "banco": {
+        "agência": {
+            "numeroAgencia": "Number"
+        },
+        "conta": {
+            "saldo": "Number",
+            "dataDeposito": "",
+            "entrada": "boolean",
+            "saida": "boolean"
+        }
+    },
+    "cliente": {
+        "nome": "",
+        "numeroConta": "Number",
+        "cpf": "Number",
+        "tipoConta": "",
+        "fone": "Number"
+    }
+}
