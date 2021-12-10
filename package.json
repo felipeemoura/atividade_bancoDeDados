@@ -1,6 +1,25 @@
 {
   "dependencies": {
     "body-parser": "^1.19.0",
-    "mongoose": "^6.0.15"
-  }
+    "express": "^4.17.1",
+    "mongoose": "^6.1.0",
+    "nodemon": "^2.0.15"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "atividade_bancodedados",
+  "version": "1.0.0",
+  "main": "server.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/felipeemoura/atividade_bancoDeDados.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/felipeemoura/atividade_bancoDeDados/issues"
+  },
+  "homepage": "https://github.com/felipeemoura/atividade_bancoDeDados#readme",
+  "description": ""
 }
